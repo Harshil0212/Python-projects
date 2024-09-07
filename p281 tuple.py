@@ -1,0 +1,7 @@
+TupleD = ("London","USA","Canada","NewZeland","Aus")
+print(TupleD)
+print(TupleD[0])
+print(TupleD[2])
+print(TupleD[-1])
+print(TupleD[-2])
+
